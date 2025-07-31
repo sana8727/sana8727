@@ -1,0 +1,48 @@
+.alert{
+    background-color: rgba(108, 139, 169, 0.285);
+    border: 1px solid rgb(88, 88, 108);
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'scripts';
+}
+
+.ok{
+
+background-color: rgb(103, 149, 189);
+    border: 1px solid rgb(90, 126, 175);
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'scripts';
+
+}
+
+.alert p{
+
+font-size: large;
+
+}
+
+
+body{
+
+background-image:url(meow.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+.image{
+text-align: center;
+size: 20px;;
+}
+
+.n{
+   background-color: rgba(108, 139, 169, 0.188);
+    border: 1px solid rgb(28, 46, 61);
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'scripts';  
+}
